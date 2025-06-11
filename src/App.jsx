@@ -1,5 +1,6 @@
 import banner from "./assets/banner1.png";
 import Navbar from "./components/Navbar";
+import Trested from "./components/Trested";
 
 function App() {
   return (
@@ -30,6 +31,8 @@ function App() {
           </label>
         </div>
       </header>
+
+      <Trested></Trested>
     </div>
   );
 }
