@@ -1,5 +1,6 @@
 import { GoArrowUpRight } from "react-icons/go";
 import image from "../assets/patner.png";
+import { FaHome } from "react-icons/fa";
 const Patner = () => {
   return (
     <div className="mt-24 max-w-[1300px] mx-auto">
@@ -16,7 +17,7 @@ const Patner = () => {
             <div className="flex items-center gap-8 px-6 py-2">
               <div>
                 <p className="size-12 bg-gray-300 rounded-full flex items-center justify-center text-3xl">
-                  <GoArrowUpRight />
+                  <FaHome />
                 </p>
               </div>
               <div>
@@ -37,7 +38,7 @@ const Patner = () => {
             <div className="flex items-center gap-8 px-6 py-2">
               <div>
                 <p className="size-12 bg-gray-300 rounded-full flex items-center justify-center text-3xl">
-                  <GoArrowUpRight />
+                  <FaHome />
                 </p>
               </div>
               <div>
@@ -58,7 +59,7 @@ const Patner = () => {
             <div className="flex items-center gap-8 px-6 py-2">
               <div>
                 <p className="size-12 bg-gray-300 rounded-full flex items-center justify-center text-3xl">
-                  <GoArrowUpRight />
+                  <FaHome />
                 </p>
               </div>
               <div>

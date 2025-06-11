@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import Trested from "./components/Trested";
 import Tarning from "./components/Tarning"
 import Patner from "./components/Patner";
+import Client from "./components/Client";
 function App() {
   return (
     <div>
@@ -38,6 +39,7 @@ function App() {
       <Message></Message>
       <Tarning></Tarning>
       <Patner></Patner>
+      <Client></Client>
     </div>
   );
 }
